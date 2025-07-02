@@ -1,0 +1,365 @@
+{
+    "week_4": [
+        {
+            "home_team": {
+                "name": "BAL",
+                "is_underdog": false,
+                "score": 35
+            },
+            "away_team": {
+                "name": "BUF",
+                "is_underdog": true,
+                "score": 10
+            },
+            "info": {
+                "date": "2024-09-29 08:20:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "BAL",
+                "spread_winner": "BAL"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 22.5,
+                "implied_home_total": 25.0
+            }
+        },
+        {
+            "home_team": {
+                "name": "CAR",
+                "is_underdog": true,
+                "score": 24
+            },
+            "away_team": {
+                "name": "CIN",
+                "is_underdog": true,
+                "score": 34
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "CIN",
+                "spread_winner": "CIN"
+            },
+            "odds": {
+                "spread": 4.5,
+                "implied_away_total": 25.5,
+                "implied_home_total": 21.0
+            }
+        },
+        {
+            "home_team": {
+                "name": "LV",
+                "is_underdog": true,
+                "score": 20
+            },
+            "away_team": {
+                "name": "CLE",
+                "is_underdog": true,
+                "score": 16
+            },
+            "info": {
+                "date": "2024-09-29 04:25:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "LV",
+                "spread_winner": "LV"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 19.75,
+                "implied_home_total": 17.25
+            }
+        },
+        {
+            "home_team": {
+                "name": "NYJ",
+                "is_underdog": true,
+                "score": 9
+            },
+            "away_team": {
+                "name": "DEN",
+                "is_underdog": true,
+                "score": 10
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "DEN",
+                "spread_winner": "DEN"
+            },
+            "odds": {
+                "spread": 8.0,
+                "implied_away_total": 15.75,
+                "implied_home_total": 23.75
+            }
+        },
+        {
+            // TODO wrong
+            "home_team": {
+                "name": "HOU",
+                "is_underdog": true,
+                "score": 24
+            },
+            "away_team": {
+                "name": "JAX",
+                "is_underdog": true,
+                "score": 20
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "HOU",
+                "spread_winner": "HOU"
+            },
+            "odds": {
+                "spread": 5.5,
+                "implied_away_total": 19.5,
+                "implied_home_total": 25.0
+            }
+        },
+        {
+            "home_team": {
+                "name": "LAC",
+                "is_underdog": true,
+                "score": 10
+            },
+            "away_team": {
+                "name": "KC",
+                "is_underdog": true,
+                "score": 17
+            },
+            "info": {
+                "date": "2024-09-29 04:25:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "KC",
+                "spread_winner": "KC"
+            },
+            "odds": {
+                "spread": 7.0,
+                "implied_away_total": 24.0,
+                "implied_home_total": 17.0
+            }
+        },
+        {
+            "home_team": {
+                "name": "CHI",
+                "is_underdog": true,
+                "score": 24
+            },
+            "away_team": {
+                "name": "LAR",
+                "is_underdog": true,
+                "score": 18
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "CHI",
+                "spread_winner": "CHI"
+            },
+            "odds": {
+                "spread": 3.0,
+                "implied_away_total": 18.5,
+                "implied_home_total": 21.5
+            }
+        },
+        {
+            "home_team": {
+                "name": "GB",
+                "is_underdog": true,
+                "score": 29
+            },
+            "away_team": {
+                "name": "MIN",
+                "is_underdog": true,
+                "score": 31
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "MIN",
+                "spread_winner": "MIN"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 20.75,
+                "implied_home_total": 23.25
+            }
+        },
+        {
+            "home_team": {
+                "name": "SF",
+                "is_underdog": true,
+                "score": 30
+            },
+            "away_team": {
+                "name": "NE",
+                "is_underdog": true,
+                "score": 13
+            },
+            "info": {
+                "date": "2024-09-29 04:05:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "SF",
+                "spread_winner": "SF"
+            },
+            "odds": {
+                "spread": 10.5,
+                "implied_away_total": 15.5,
+                "implied_home_total": 26.0
+            }
+        },
+        {
+            "home_team": {
+                "name": "ATL",
+                "is_underdog": true,
+                "score": 26
+            },
+            "away_team": {
+                "name": "NO",
+                "is_underdog": true,
+                "score": 24
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "ATL",
+                "spread_winner": "ATL"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 20.0,
+                "implied_home_total": 22.5
+            }
+        },
+        {
+            "home_team": {
+                "name": "TB",
+                "is_underdog": true,
+                "score": 33
+            },
+            "away_team": {
+                "name": "PHI",
+                "is_underdog": true,
+                "score": 16
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "TB",
+                "spread_winner": "TB"
+            },
+            "odds": {
+                "spread": 1.0,
+                "implied_away_total": 21.75,
+                "implied_home_total": 20.75
+            }
+        },
+        {
+            "home_team": {
+                "name": "IND",
+                "is_underdog": true,
+                "score": 27
+            },
+            "away_team": {
+                "name": "PIT",
+                "is_underdog": true,
+                "score": 24
+            },
+            "info": {
+                "date": "2024-09-29 01:00:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "IND",
+                "spread_winner": "IND"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 21.75,
+                "implied_home_total": 19.25
+            }
+        },
+        {
+            "home_team": {
+                "name": "ARI",
+                "is_underdog": true,
+                "score": 14
+            },
+            "away_team": {
+                "name": "WSH",
+                "is_underdog": true,
+                "score": 42
+            },
+            "info": {
+                "date": "2024-09-29 04:05:00",
+                "week": "4",
+                "status": "Final",
+                "game_winner": "WSH",
+                "spread_winner": "WSH"
+            },
+            "odds": {
+                "spread": 3.5,
+                "implied_away_total": 22.75,
+                "implied_home_total": 26.25
+            }
+        },
+        {
+            "home_team": {
+                "name": "DET",
+                "is_underdog": true,
+                "score": 42
+            },
+            "away_team": {
+                "name": "SEA",
+                "is_underdog": true,
+                "score": 29
+            },
+            "info": {
+                "date": "2024-09-30 08:15:00",
+                "week": "4",
+                "status": "Scheduled",
+                "game_winner": "DET",
+                "spread_winner": "DET"
+            },
+            "odds": {
+                "spread": 4.5,
+                "implied_away_total": 21.25,
+                "implied_home_total": 25.75
+            }
+        },
+        {
+            "home_team": {
+                "name": "MIA",
+                "is_underdog": true,
+                "score": 12
+            },
+            "away_team": {
+                "name": "TEN",
+                "is_underdog": true,
+                "score": 31
+            },
+            "info": {
+                "date": "2024-09-30 07:30:00",
+                "week": "4",
+                "status": "Scheduled",
+                "game_winner": "TEN",
+                "spread_winner": "TEN"
+            },
+            "odds": {
+                "spread": 2.5,
+                "implied_away_total": 17.5,
+                "implied_home_total": 20.0
+            }
+        }
+    ]
+}

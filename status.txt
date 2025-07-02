@@ -1,0 +1,6 @@
+Game(info=GameInfo(home_team='DET', away_team='TB', date=datetime.datetime(2024, 9, 15, 1, 0), week='2', status='Final', game_winner='', spread_winner=''), score=GameScore(home_team_score=16, away_team_score=20), odds=GameOdds(away_spread=7.5, home_spread=-7.5, implied_away_total=22.25, implied_home_total=29.75))
+
+away_spread=7.5, home_spread=-7.5
+home_team_score=16, away_team_score=20
+
+home - away = 4
